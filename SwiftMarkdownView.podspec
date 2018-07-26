@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 SwiftMarkdownView is a lightweight library to parse and display markdown text in Swift. It is based on cmark.
                        DESC
 
-  s.homepage         = 'https://github.com/derekcoder@gmail.com/SwiftMarkdownView'
+  s.homepage         = 'https://github.com/derekcoder/SwiftMarkdownView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'DerekCoder' => 'derekcoder@gmail.com' }
