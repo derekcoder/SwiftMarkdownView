@@ -1,0 +1,16 @@
+PODS:
+  - SwiftMarkdownView (0.1.0)
+
+DEPENDENCIES:
+  - SwiftMarkdownView (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftMarkdownView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftMarkdownView: 80de042c6e9f651a54b83d719b670e017f4f0aa2
+
+PODFILE CHECKSUM: ffccb5d0140074a5874835c6fa339ef2b2b0db35
+
+COCOAPODS: 1.5.3

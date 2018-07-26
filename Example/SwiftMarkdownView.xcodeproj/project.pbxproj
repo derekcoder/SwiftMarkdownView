@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		097803BBA12CC8019D7258EA /* Pods-SwiftMarkdownView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftMarkdownView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftMarkdownView_Example/Pods-SwiftMarkdownView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		4A23B762FB8C789C0AE49226 /* SwiftMarkdownView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SwiftMarkdownView.podspec; path = ../SwiftMarkdownView.podspec; sourceTree = "<group>"; };
+		4A23B762FB8C789C0AE49226 /* SwiftMarkdownView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SwiftMarkdownView.podspec; path = ../SwiftMarkdownView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* SwiftMarkdownView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftMarkdownView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -41,8 +41,8 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		703BF5F8144A9D1808A9DD51 /* Pods-SwiftMarkdownView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftMarkdownView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftMarkdownView_Example/Pods-SwiftMarkdownView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		71EE72E538C6B4332A6527F7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		91864CE76696FDB6740CA461 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		71EE72E538C6B4332A6527F7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		91864CE76696FDB6740CA461 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		BD73CA1ED6DC69F66D7A72A7 /* Pods_SwiftMarkdownView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftMarkdownView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D069EFDEA4DC7DD2FA7890A0 /* Pods-SwiftMarkdownView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftMarkdownView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftMarkdownView_Tests/Pods-SwiftMarkdownView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		EFE23D621304D6D075B00504 /* Pods-SwiftMarkdownView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftMarkdownView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftMarkdownView_Tests/Pods-SwiftMarkdownView_Tests.debug.xcconfig"; sourceTree = "<group>"; };

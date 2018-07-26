@@ -1,0 +1,22 @@
+{
+  "name": "SwiftMarkdownView",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftMarkdownView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/derekcoder@gmail.com/SwiftMarkdownView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "derekcoder@gmail.com": "derekcoder@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/derekcoder@gmail.com/SwiftMarkdownView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftMarkdownView/Classes/**/*"
+}

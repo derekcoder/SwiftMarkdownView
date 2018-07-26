@@ -1,0 +1,6 @@
+framework module SwiftMarkdownView {
+  umbrella header "SwiftMarkdownView-umbrella.h"
+
+  export *
+  module * { export * }
+}

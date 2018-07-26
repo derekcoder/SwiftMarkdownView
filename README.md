@@ -22,7 +22,7 @@ pod 'SwiftMarkdownView'
 
 ## Author
 
-derekcoder@gmail.com, derekcoder@gmail.com
+derekcoder@gmail.com
 
 ## License
 
