@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftMarkdownView_Example' do
+  pod 'SwiftMarkdownView', :path => '../'
+
+  target 'SwiftMarkdownView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
