@@ -24,13 +24,14 @@ SwiftMarkdownView is a lightweight library to parse and display markdown text in
   s.homepage         = 'https://github.com/derekcoder@gmail.com/SwiftMarkdownView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'derekcoder@gmail.com' => 'derekcoder@gmail.com' }
+  s.author           = { 'DerekCoder' => 'derekcoder@gmail.com' }
   s.source           = { :git => 'https://github.com/derekcoder@gmail.com/SwiftMarkdownView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'SwiftMarkdownView/Classes/**/*'
+  s.swift_version = '4.0'
   
   # s.resource_bundles = {
   #   'SwiftMarkdownView' => ['SwiftMarkdownView/Assets/*.png']
